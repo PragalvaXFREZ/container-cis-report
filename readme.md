@@ -15,5 +15,6 @@
 
 How to run?
 
-#pip install docker
-#python cis_checker.py
+pip install docker
+
+python cis_checker.py
